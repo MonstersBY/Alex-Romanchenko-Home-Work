@@ -1,26 +1,26 @@
-Pos,DriverCountry,Driver,PointsDriver,Constructors,PointsConstructors,PosConstructors,ConstructorsCountry
-23,"New Zealand","Brendon Hartley",0,"Toro Rosso",53,7,Italy
-9,Spain,"Carlos Sainz Jr.",54,Renault,57,6,France
-5,Australia,"Daniel Ricciardo",200,"Red Bull Racing-TAG Heue",368,3,Austria
-19,Russia,"Daniil Kvyat",5,"Toro Rosso",53,7,Italy
-8,France,"Esteban Ocon",87,"Force India-Mercedes",187,4,India
-11,Brasil,"Felipe Massa",43,Williams-Mercedes,83,5,"United Kingdom"
-15,Spain,"Fernando Alonso",17,McLaren-Honda,30,9,"United Kingdom"
-17,"United Kingdom","Jolyon Palmer",8,Renault,57,6,France
-14,Denmark,"Kevin Magnussen",19,Haas-Ferrari,47,8,USA
-4,Finland,"Kimi Räikkönen",205,Ferrari,522,2,Italy
-12,Canada,"Lance Stroll",40,Williams-Mercedes,83,5,"United Kingdom"
-1,"United Kingdom","Lewis Hamilton",363,Mercedes,668,1,Germany
-20,Sweden,"Marcus Ericsson",0,Sauber-Ferrari,5,10,Switzerland
-6,Nederland,"Max Verstappen",168,"Red Bull Racing-TAG Heue",368,3,Austria
-10,Germany,"Nico Hülkenberg",43,Renault,57,6,France
-18,Germany,"Pascal Wehrlein",5,Sauber-Ferrari,5,10,Switzerland
--1,"United Kingdom","Paul di Resta",0,Williams-Mercedes,83,5,"United Kingdom"
-21,France,"Pierre Gasly",0,"Toro Rosso",53,7,Italy
-13,France,"Romain Grosjean",28,Haas-Ferrari,47,8,USA
-2,Germany,"Sebastian Vettel",317,Ferrari,522,2,Italy
-7,Mexican,"Sergio Pérez",100,"Force India-Mercedes",187,4,India
-16,Belgium,"Stoffel Vandoorne",13,McLaren-Honda,30,9,"United Kingdom"
-22,Italy," Antonio Giovinazzi",0,Sauber-Ferrari,5,10,Switzerland
--1,"United Kingdom"," Jenson Button",0,McLaren-Honda,30,9,"United Kingdom"
-3,Finland," Valtteri Bottas",305,Mercedes,668,1,Germany
+Pos,DriverCountry,Name,Surname,PointsDriver,Constructors,PointsConstructors,PosConstructors,ConstructorsCountry
+-2,"United Kingdom","Paul di ",Resta,0,Williams-Mercedes,83,5,"United Kingdom"
+-1,"United Kingdom","Jenson ",Button,0,McLaren-Honda,30,9,"United Kingdom"
+1,"United Kingdom","Lewis ",Hamilton,363,Mercedes,668,1,Germany
+2,Germany,"Sebastian ",Vettel,317,Ferrari,522,2,Italy
+3,Finland,"Valtteri ",Bottas,305,Mercedes,668,1,Germany
+4,Finland,"Kimi ",Räikkönen,205,Ferrari,522,2,Italy
+5,Australia,"Daniel ",Ricciardo,200,"Red Bull Racing-TAG Heue",368,3,Austria
+6,Nederland,"Max ",Verstappen,168,"Red Bull Racing-TAG Heue",368,3,Austria
+7,Mexican,"Sergio ",Pérez,100,"Force India-Mercedes",187,4,India
+8,France,"Esteban ",Ocon,87,"Force India-Mercedes",187,4,India
+9,Spain,"Carlos ","Sainz Jr.",54,Renault,57,6,France
+10,Germany,"Nico ",Hülkenberg,43,Renault,57,6,France
+11,Brasil,"Felipe ",Massa,43,Williams-Mercedes,83,5,"United Kingdom"
+12,Canada,"Lance ",Stroll,40,Williams-Mercedes,83,5,"United Kingdom"
+13,France,"Romain ",Grosjean,28,Haas-Ferrari,47,8,USA
+14,Denmark,"Kevin ",Magnussen,19,Haas-Ferrari,47,8,USA
+15,Spain,"Fernando ",Alonso,17,McLaren-Honda,30,9,"United Kingdom"
+16,Belgium,"Stoffel ",Vandoorne,13,McLaren-Honda,30,9,"United Kingdom"
+17,"United Kingdom","Jolyon ",Palmer,8,Renault,57,6,France
+18,Germany,"Pascal ",Wehrlein,5,Sauber-Ferrari,5,10,Switzerland
+19,Russia,"Daniil ",Kvyat,5,"Toro Rosso",53,7,Italy
+20,Sweden,"Marcus ",Ericsson,0,Sauber-Ferrari,5,10,Switzerland
+21,France,"Pierre ",Gasly,0,"Toro Rosso",53,7,Italy
+22,Italy,"Antonio ",Giovinazzi,0,Sauber-Ferrari,5,10,Switzerland
+23,"New Zealand","Brendon ",Hartley,0,"Toro Rosso",53,7,Italy
